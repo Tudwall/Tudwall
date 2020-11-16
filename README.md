@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm studying web development on OpenClassrooms and sometimes working on projects!
+I like doing some open source so if your project requires some front-end work, I can probably help 🙂
+
+You can also find me on <a href="www.twitter.com/tudwall">twitter</a> and on my own <a href="https://pierre-laffaille.com">website</a>
