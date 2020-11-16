@@ -21,6 +21,8 @@ I like doing some open source so if your project requires some front-end work, I
 ⚙️ Working on: Informatique Michaud, a landing page for on-site IT services<br>
 📚 Learning: Basic SEO
 
+I'm mostly learning about front-end for now, but I'd like to become a full stack developer! ⚡
+
 <h2>Tech</h2>
 
 ⌨️ Languages<br>
