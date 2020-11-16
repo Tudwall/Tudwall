@@ -37,11 +37,12 @@ I like doing some open source so if your project requires some front-end work, I
 
 🔩 Hardware 🔩
 
-<img src="https://img.shields.io/badge/amd-Ryzen%207%203600XT-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-gtx970-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> 
+<img src="https://img.shields.io/badge/amd-Ryzen%205%203600XT-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-gtx970-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> 
 
 🧰 Misc. 🧰
 
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+<br><img src="https://img.shields.io/badge/Language-French-brightgreen" /> <img src="https://img.shields.io/badge/Language-English-brightgreen" />
 
 
 🌐 You can also find me on 🌐
