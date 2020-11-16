@@ -41,4 +41,4 @@ I like doing some open source so if your project requires some front-end work, I
 
 
 🌐 You can also find me on:<br>
-<a href="https://www.twitter.com/tudwall"><img src="https://img.shields.io/badge/tudwall%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pierre-laffaille-162071130/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://dev.to/tudwall"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://www.twitter.com/tudwall"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pierre-laffaille-162071130/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://dev.to/tudwall"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
