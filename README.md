@@ -35,9 +35,6 @@ I like doing some open source so if your project requires some front-end work, I
 
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge" />
 
-🔩 Hardware 🔩
-
-<img src="https://img.shields.io/badge/amd-Ryzen%205%203600XT-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-gtx970-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> 
 
 🧰 Misc. 🧰
 
