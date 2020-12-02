@@ -19,7 +19,7 @@ I'm studying web development on OpenClassrooms and sometimes working on projects
 I like doing some open source so if your project requires some front-end work, I can probably help 🙂
 
 ⚙️ Working on: Informatique Michaud, a landing page for on-site IT services<br>
-📚 Learning: Basic SEO
+📚 Learning: Node.js, Express, MongoDB
 
 I'm mostly learning front-end for now, but I'd like to become a full stack developer! ⚡
 
