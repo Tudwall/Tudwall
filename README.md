@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm studying web development on OpenClassrooms and sometimes working on projects!
 I like doing some open source so if your project requires some front-end work, I can probably help 🙂
 
-⚙️ Working on: Informatique Michaud, a landing page for on-site IT services<br>
+⚙️ Working on: Informatique Michaud, a landing page for on-site IT services // <a href="https://github.com/MichMich/MagicMirror">A Magic Mirror</a><br>
 📚 Learning: Node.js, Express, MongoDB
 
 I'm mostly learning front-end for now, but I'd like to become a full stack developer! ⚡
