@@ -29,16 +29,15 @@ I'm mostly learning front-end for now, but I'd like to become a full stack devel
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
-🔨 Frameworks<br>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> 
+🔨 Frameworks/Runtime<br>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express%20-%23FFFFFF.svg?&style=for-the-badge&logo=express&logoColor=white"/> 
 
 
 💾 Software<br>
 <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/filezilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge" /> 
 
-
 🧰 Misc.<br>
-<img src="https://img.shields.io/badge/windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img src="https://img.shields.io/badge/-osmc-17394A?style=for-the-badge&logo=osmc"/> <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img src="https://img.shields.io/badge/-osmc-17394A?style=for-the-badge&logo=osmc"/> <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <br><img src="https://img.shields.io/badge/Language-Français-brightgreen" /> <img src="https://img.shields.io/badge/Language-English-brightgreen" /> <img src="https://img.shields.io/badge/Language-Español-red" />
 
 
