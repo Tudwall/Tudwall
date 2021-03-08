@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm studying web development on OpenClassrooms and sometimes working on projects!
 I like doing some open source so if your project requires some front-end work, I can probably help 🙂
 
-⚙️ Working on: Informatique Michaud, a landing page for on-site IT services // <a href="https://github.com/MichMich/MagicMirror">A Magic Mirror</a><br>
+⚙️ Working on: <a href="https://github.com/MichMich/MagicMirror">A Magic Mirror</a><br>
 📚 Learning: React.js
 
 I'm mostly learning front-end for now, but I'd like to become a full stack developer! ⚡
@@ -29,11 +29,11 @@ I'm mostly learning front-end for now, but I'd like to become a full stack devel
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
-🔨 Frameworks/Runtime<br>
+🔨 Frameworks/Runtimes<br>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express%20-%23FFFFFF.svg?&style=for-the-badge"/> 
 
 
-💾 Software<br>
+💾 Softwares<br>
 <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/filezilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge" /> 
 
 🧰 Misc.<br>
