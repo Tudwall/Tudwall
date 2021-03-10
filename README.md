@@ -38,7 +38,7 @@ I'm mostly learning front-end for now, but I'd like to become a full stack devel
 
 🧰 Misc.<br>
 <img src="https://img.shields.io/badge/windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img src="https://img.shields.io/badge/-osmc-17394A?style=for-the-badge&logo=osmc"/> <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Language-Français-brightgreen" /> <img src="https://img.shields.io/badge/Language-English-brightgreen" /> <img src="https://img.shields.io/badge/Language-Español-red" />
+<br><img src="https://img.shields.io/badge/Language-Français-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/Language-English-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/Language-Español-red?style=flat-square" /> [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 
 🌐 You can also find me on:<br>
