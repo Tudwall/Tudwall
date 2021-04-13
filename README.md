@@ -19,7 +19,7 @@ I'm studying web development on OpenClassrooms and sometimes working on projects
 I like doing some open source so if your project requires some front-end work, I can probably help 🙂
 
 ⚙️ Working on: <a href="https://github.com/MichMich/MagicMirror">A Magic Mirror</a><br>
-📚 Learning: React.js
+📚 Learning: Practicing javascript
 
 I'm mostly learning front-end for now, but I'd like to become a full stack developer! ⚡
 
