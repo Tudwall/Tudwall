@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm studying web development on OpenClassrooms and sometimes working on projects!
-I like doing some open source so if your project requires some front-end work, I can probably help 🙂
+I'm learning web development online and sometimes working on projects!
 
 ⚙️ Working on: <a href="https://github.com/MichMich/MagicMirror">A Magic Mirror</a><br>
 📚 Learning: Practicing javascript and doing <a href="https://www.theodinproject.com/">The Odin Project</a>
