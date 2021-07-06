@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 I'm learning web development online and sometimes working on projects!
 
-⚙️ Working on: <a href="https://github.com/MichMich/MagicMirror">A Magic Mirror</a><br>
+⚙️ Working on: A <a href="https://github.com/Tudwall/TOP-game-jam">game</a> for <a href="https://itch.io/jam/top-jam-1">TOP-Jam</a> and a <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>
 📚 Learning: Practicing javascript and doing <a href="https://www.theodinproject.com/">The Odin Project</a>
 
 I'm mostly learning front-end for now, but I'd like to become a full stack developer! ⚡
 
-### Tech
+### Tech stack
 
 ⌨️ Languages<br>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
