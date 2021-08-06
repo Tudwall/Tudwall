@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm learning web development online and sometimes working on projects!
 
-⚙️ Working on: A <a href="https://github.com/Tudwall/TOP-game-jam">game</a> for <a href="https://itch.io/jam/top-jam-1">TOP-Jam</a> and a <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>
+⚙️ Working on: A <a href="https://github.com/Tudwall/Storyteller">game</a> for <a href="https://itch.io/jam/top-jam-1">TOP-Jam</a> and a <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>
 📚 Learning: Practicing javascript and doing <a href="https://www.theodinproject.com/">The Odin Project</a>
 
 I'm mostly learning front-end for now, but I'd like to become a full stack developer! ⚡
