@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm learning web development online and sometimes working on projects!
 
-⚙️ Working on: A <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>
-📚 Learning: Practicing javascript and doing <a href="https://www.theodinproject.com/">The Odin Project</a>
+<!--⚙️ Working on: A <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>
+📚 Learning: Practicing javascript and doing <a href="https://www.theodinproject.com/">The Odin Project</a>-->
 
 I'm mostly learning front-end for now, but I'd like to become a full stack developer! ⚡
 
@@ -42,4 +42,3 @@ I'm mostly learning front-end for now, but I'd like to become a full stack devel
 
 🌐 You can also find me on:<br>
 <a href="https://www.twitter.com/tudwall"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pierre-laffaille-162071130/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://dev.to/tudwall"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a><br>
-and you can chat with me on Discord `Tudwall#9626`
