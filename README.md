@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm learning web development online and sometimes working on projects!
+I'm learning web development and sometimes working on projects!
 
 <!--⚙️ Working on: A <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>
 📚 Learning: Practicing javascript and doing <a href="https://www.theodinproject.com/">The Odin Project</a>-->
