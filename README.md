@@ -20,7 +20,7 @@ I'm learning web development and sometimes working on projects!
 <!--⚙️ Working on: A <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>
 📚 Learning: Practicing javascript and doing <a href="https://www.theodinproject.com/">The Odin Project</a>-->
 
-Currently becoming a web developer with AFEC ⚡
+Currently becoming a web developer with AFEC and looking for an internship⚡
 
 ### Tech stack
 
