@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm learning web development and sometimes working on projects!
 
-<!--🔭 Working on: A <a href="https://github.com/MichMich/MagicMirror">Magic Mirror</a><br>-->
+🔭 Working on: [SpinIt!](https://github.com/Tudwall/SpinIt), a music collection website using Discogs' API<br>
 🌱 Learning: Getting my web developper certification !</a>
 
 ### Tech stack
