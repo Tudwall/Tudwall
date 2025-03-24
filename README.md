@@ -27,7 +27,7 @@ I'm learning web development and sometimes working on projects!
 
 
 🔨 Frameworks<br>
-<img src="https://img.shields.io/badge/express%20-%23FFFFFF.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/angular-0F0F11?logo=angular&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/angular-0F0F11?logo=angular&logoColor=white&style=for-the-badge" />
 
 ⚙️ Pre-processors<br>
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
