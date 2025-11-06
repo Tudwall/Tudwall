@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm learning web development and sometimes working on projects!
 
-🔭 Working on: looking for ideas <br>
-🌱 Learning: Learning new frameworks (Ionic/Angular) and looking for an apprenticeship !
+🔭 Working on: a new portfolio <br>
+🌱 Learning: trying out new frameworks and looking for an apprenticeship !
 
 ### Tech stack
 
